@@ -20,3 +20,12 @@
 *.json linguist-detectable=false
 *.yaml linguist-detectable=false
 *.cmake linguist-detectable=false
+*.dart linguist-detectable=true
+*.yaml linguist-detectable=true
+*.cmake linguist-detectable=false
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+/windows/* linguist-detectable=false
+/macos/* linguist-detectable=false
+/linux/* linguist-detectable=false
+/android/* linguist-detectable=false
